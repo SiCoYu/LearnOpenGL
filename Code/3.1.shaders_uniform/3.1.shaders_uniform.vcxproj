@@ -21,6 +21,7 @@
   <PropertyGroup Label="Globals">
     <ProjectGuid>{6747F6CD-5D9C-4501-B97A-2ED48D31F0B1}</ProjectGuid>
     <RootNamespace>My31shaders_uniform</RootNamespace>
+    <ProjectName>1.getting_started__3.1.shaders_uniform</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

@@ -21,6 +21,7 @@
   <PropertyGroup Label="Globals">
     <ProjectGuid>{2003CFC9-92E9-4843-801E-2CC8BB6E28BD}</ProjectGuid>
     <RootNamespace>My23hello_triangle_exercise1</RootNamespace>
+    <ProjectName>1.getting_started__2.3.hello_triangle_exercise1</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

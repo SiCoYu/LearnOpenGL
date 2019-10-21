@@ -13,6 +13,7 @@
   <PropertyGroup Label="Globals">
     <ProjectGuid>{E18D1172-744E-4CA7-876C-E99AC2118973}</ProjectGuid>
     <RootNamespace>My44textures_exercise3</RootNamespace>
+    <ProjectName>1.getting_started__4.4.textures_exercise3</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

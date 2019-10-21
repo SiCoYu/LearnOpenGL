@@ -13,6 +13,7 @@
   <PropertyGroup Label="Globals">
     <ProjectGuid>{828E761A-4C7D-489E-9B22-B681A89F336C}</ProjectGuid>
     <RootNamespace>My74camera_class</RootNamespace>
+    <ProjectName>1.getting_started__7.4.camera_class</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

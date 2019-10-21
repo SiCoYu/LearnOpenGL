@@ -13,6 +13,7 @@
   <PropertyGroup Label="Globals">
     <ProjectGuid>{D94BBB76-A514-45DD-9596-28D459D572CB}</ProjectGuid>
     <RootNamespace>My62coordinate_systems_depth</RootNamespace>
+    <ProjectName>1.getting_started__6.2.coordinate_systems_depth</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

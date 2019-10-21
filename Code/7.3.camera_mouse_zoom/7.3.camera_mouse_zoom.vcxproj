@@ -13,6 +13,7 @@
   <PropertyGroup Label="Globals">
     <ProjectGuid>{978BD158-83FB-4B9C-A3BE-D0687CE78D58}</ProjectGuid>
     <RootNamespace>My73camera_mouse_zoom</RootNamespace>
+    <ProjectName>1.getting_started__7.3.camera_mouse_zoom</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

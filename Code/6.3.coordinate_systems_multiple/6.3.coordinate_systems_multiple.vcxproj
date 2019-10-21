@@ -13,6 +13,7 @@
   <PropertyGroup Label="Globals">
     <ProjectGuid>{20D6F228-03F1-4ED9-AB45-C78921CA2728}</ProjectGuid>
     <RootNamespace>My63coordinate_systems_multiple</RootNamespace>
+    <ProjectName>1.getting_started__6.3.coordinate_systems_multiple</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

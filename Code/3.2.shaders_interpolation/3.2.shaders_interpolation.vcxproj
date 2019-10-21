@@ -21,6 +21,7 @@
   <PropertyGroup Label="Globals">
     <ProjectGuid>{275EF486-BAF3-4EF9-BF7B-F5681C503D0E}</ProjectGuid>
     <RootNamespace>My32shaders_interpolation</RootNamespace>
+    <ProjectName>1.getting_started__3.2.shaders_interpolation</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

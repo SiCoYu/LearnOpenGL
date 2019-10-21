@@ -21,6 +21,7 @@
   <PropertyGroup Label="Globals">
     <ProjectGuid>{DE3641EB-B87C-437F-8C3A-3E3A357E4DBA}</ProjectGuid>
     <RootNamespace>My12hello_window_clear</RootNamespace>
+    <ProjectName>1.getting_started__1.2.hello_window_clear</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
