@@ -117,6 +117,12 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5.advanced_lighting__3.1.3.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5.advanced_lighting__3.2.1.point_shadows", "5.advanced_lighting__3.2.1.point_shadows\5.advanced_lighting__3.2.1.point_shadows.vcxproj", "{62D0261B-AE9C-4E28-8993-0DB080E0FA49}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5.advanced_lighting__3.2.2.point_shadows_soft", "5.advanced_lighting__3.2.2.point_shadows_soft\5.advanced_lighting__3.2.2.point_shadows_soft.vcxproj", "{BF0F979B-5000-4E5E-8BB1-FD79726DB152}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5.advanced_lighting__4.normal_mapping", "5.advanced_lighting__4.normal_mapping\5.advanced_lighting__4.normal_mapping.vcxproj", "{44F49292-9B46-4EC9-A40B-9283FBE368DF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5.advanced_lighting__5.1.parallax_mapping", "5.advanced_lighting__5.1.parallax_mapping\5.advanced_lighting__5.1.parallax_mapping.vcxproj", "{3977DAF4-512C-44CA-BB82-D6882198F889}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -489,6 +495,24 @@ Global
 		{62D0261B-AE9C-4E28-8993-0DB080E0FA49}.Release|Win32.ActiveCfg = Release|Win32
 		{62D0261B-AE9C-4E28-8993-0DB080E0FA49}.Release|Win32.Build.0 = Release|Win32
 		{62D0261B-AE9C-4E28-8993-0DB080E0FA49}.Release|x64.ActiveCfg = Release|Win32
+		{BF0F979B-5000-4E5E-8BB1-FD79726DB152}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BF0F979B-5000-4E5E-8BB1-FD79726DB152}.Debug|Win32.Build.0 = Debug|Win32
+		{BF0F979B-5000-4E5E-8BB1-FD79726DB152}.Debug|x64.ActiveCfg = Debug|Win32
+		{BF0F979B-5000-4E5E-8BB1-FD79726DB152}.Release|Win32.ActiveCfg = Release|Win32
+		{BF0F979B-5000-4E5E-8BB1-FD79726DB152}.Release|Win32.Build.0 = Release|Win32
+		{BF0F979B-5000-4E5E-8BB1-FD79726DB152}.Release|x64.ActiveCfg = Release|Win32
+		{44F49292-9B46-4EC9-A40B-9283FBE368DF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{44F49292-9B46-4EC9-A40B-9283FBE368DF}.Debug|Win32.Build.0 = Debug|Win32
+		{44F49292-9B46-4EC9-A40B-9283FBE368DF}.Debug|x64.ActiveCfg = Debug|Win32
+		{44F49292-9B46-4EC9-A40B-9283FBE368DF}.Release|Win32.ActiveCfg = Release|Win32
+		{44F49292-9B46-4EC9-A40B-9283FBE368DF}.Release|Win32.Build.0 = Release|Win32
+		{44F49292-9B46-4EC9-A40B-9283FBE368DF}.Release|x64.ActiveCfg = Release|Win32
+		{3977DAF4-512C-44CA-BB82-D6882198F889}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3977DAF4-512C-44CA-BB82-D6882198F889}.Debug|Win32.Build.0 = Debug|Win32
+		{3977DAF4-512C-44CA-BB82-D6882198F889}.Debug|x64.ActiveCfg = Debug|Win32
+		{3977DAF4-512C-44CA-BB82-D6882198F889}.Release|Win32.ActiveCfg = Release|Win32
+		{3977DAF4-512C-44CA-BB82-D6882198F889}.Release|Win32.Build.0 = Release|Win32
+		{3977DAF4-512C-44CA-BB82-D6882198F889}.Release|x64.ActiveCfg = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
