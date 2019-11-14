@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="parallax_mapping.cpp">
+    <ClCompile Include="steep_parallax_mapping.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="..\common\glad.c">
@@ -23,7 +23,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="5.1.parallax_mapping.fs" />
-    <None Include="5.1.parallax_mapping.vs" />
+    <None Include="5.2.parallax_mapping.vs" />
+    <None Include="5.2.parallax_mapping.fs" />
   </ItemGroup>
 </Project>

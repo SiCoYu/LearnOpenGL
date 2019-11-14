@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="parallax_mapping.cpp">
+    <ClCompile Include="ssao.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="..\common\glad.c">
@@ -23,7 +23,11 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="5.1.parallax_mapping.fs" />
-    <None Include="5.1.parallax_mapping.vs" />
+    <None Include="9.ssao_lighting.fs" />
+    <None Include="9.ssao_geometry.vs" />
+    <None Include="9.ssao_geometry.fs" />
+    <None Include="9.ssao_blur.fs" />
+    <None Include="9.ssao.vs" />
+    <None Include="9.ssao.fs" />
   </ItemGroup>
 </Project>

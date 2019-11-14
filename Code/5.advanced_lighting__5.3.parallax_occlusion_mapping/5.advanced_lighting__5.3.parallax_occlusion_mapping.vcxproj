@@ -11,8 +11,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{3977DAF4-512C-44CA-BB82-D6882198F889}</ProjectGuid>
-    <RootNamespace>My5advanced_lighting__51parallax_mapping</RootNamespace>
+    <ProjectGuid>{9DD23A69-0B20-4002-B05F-AF6CD6D498C7}</ProjectGuid>
+    <RootNamespace>My5advanced_lighting__53parallax_occlusion_mapping</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -65,11 +65,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="..\common\glad.c" />
-    <ClCompile Include="parallax_mapping.cpp" />
+    <ClCompile Include="parallax_occlusion_mapping.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="5.1.parallax_mapping.fs" />
-    <None Include="5.1.parallax_mapping.vs" />
+    <None Include="5.3.parallax_mapping.fs" />
+    <None Include="5.3.parallax_mapping.vs" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
