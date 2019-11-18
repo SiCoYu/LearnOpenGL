@@ -127,8 +127,6 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5.advanced_lighting__5.2.st
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5.advanced_lighting__5.3.parallax_occlusion_mapping", "5.advanced_lighting__5.3.parallax_occlusion_mapping\5.advanced_lighting__5.3.parallax_occlusion_mapping.vcxproj", "{9DD23A69-0B20-4002-B05F-AF6CD6D498C7}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5.advanced_lighting__6.hdr", "5.advanced_lighting__6.hdr\5.advanced_lighting__6.hdr.vcxproj", "{C4137E66-F6B3-496C-973C-66AEECB1AB33}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5.advanced_lighting__7.bloom", "5.advanced_lighting__7.bloom\5.advanced_lighting__7.bloom.vcxproj", "{0BA70D61-FE8F-4FBE-95AE-67A1762E7755}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5.advanced_lighting__8.1.deferred_shading", "5.advanced_lighting__8.1.deferred_shading\5.advanced_lighting__8.1.deferred_shading.vcxproj", "{8A1D88F8-0E18-4F2C-916A-881E45BD9DDE}"
@@ -136,6 +134,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5.advanced_lighting__8.2.deferred_shading_volumes", "5.advanced_lighting__8.2.deferred_shading_volumes\5.advanced_lighting__8.2.deferred_shading_volumes.vcxproj", "{B287CD7C-3674-40D7-BFDF-1AD3771499BD}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5.advanced_lighting__9.ssao", "5.advanced_lighting__9.ssao\5.advanced_lighting__9.ssao.vcxproj", "{1DBDB69B-4672-4CEB-B629-878B5F499AF2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5.advanced_lighting__6.hdr", "5.advanced_lighting__6.hdr\5.advanced_lighting__6.hdr.vcxproj", "{C4137E66-F6B3-496C-973C-66AEECB1AB33}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -539,12 +539,6 @@ Global
 		{9DD23A69-0B20-4002-B05F-AF6CD6D498C7}.Release|Win32.ActiveCfg = Release|Win32
 		{9DD23A69-0B20-4002-B05F-AF6CD6D498C7}.Release|Win32.Build.0 = Release|Win32
 		{9DD23A69-0B20-4002-B05F-AF6CD6D498C7}.Release|x64.ActiveCfg = Release|Win32
-		{C4137E66-F6B3-496C-973C-66AEECB1AB33}.Debug|Win32.ActiveCfg = Debug|Win32
-		{C4137E66-F6B3-496C-973C-66AEECB1AB33}.Debug|Win32.Build.0 = Debug|Win32
-		{C4137E66-F6B3-496C-973C-66AEECB1AB33}.Debug|x64.ActiveCfg = Debug|Win32
-		{C4137E66-F6B3-496C-973C-66AEECB1AB33}.Release|Win32.ActiveCfg = Release|Win32
-		{C4137E66-F6B3-496C-973C-66AEECB1AB33}.Release|Win32.Build.0 = Release|Win32
-		{C4137E66-F6B3-496C-973C-66AEECB1AB33}.Release|x64.ActiveCfg = Release|Win32
 		{0BA70D61-FE8F-4FBE-95AE-67A1762E7755}.Debug|Win32.ActiveCfg = Debug|Win32
 		{0BA70D61-FE8F-4FBE-95AE-67A1762E7755}.Debug|Win32.Build.0 = Debug|Win32
 		{0BA70D61-FE8F-4FBE-95AE-67A1762E7755}.Debug|x64.ActiveCfg = Debug|Win32
@@ -569,6 +563,12 @@ Global
 		{1DBDB69B-4672-4CEB-B629-878B5F499AF2}.Release|Win32.ActiveCfg = Release|Win32
 		{1DBDB69B-4672-4CEB-B629-878B5F499AF2}.Release|Win32.Build.0 = Release|Win32
 		{1DBDB69B-4672-4CEB-B629-878B5F499AF2}.Release|x64.ActiveCfg = Release|Win32
+		{C4137E66-F6B3-496C-973C-66AEECB1AB33}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C4137E66-F6B3-496C-973C-66AEECB1AB33}.Debug|Win32.Build.0 = Debug|Win32
+		{C4137E66-F6B3-496C-973C-66AEECB1AB33}.Debug|x64.ActiveCfg = Debug|Win32
+		{C4137E66-F6B3-496C-973C-66AEECB1AB33}.Release|Win32.ActiveCfg = Release|Win32
+		{C4137E66-F6B3-496C-973C-66AEECB1AB33}.Release|Win32.Build.0 = Release|Win32
+		{C4137E66-F6B3-496C-973C-66AEECB1AB33}.Release|x64.ActiveCfg = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

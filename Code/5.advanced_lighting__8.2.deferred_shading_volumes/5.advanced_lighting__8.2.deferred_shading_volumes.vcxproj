@@ -64,6 +64,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\common\glad.c" />
+    <ClCompile Include="deferred_shading_volumes.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="8.2.deferred_light_box.fs" />
+    <None Include="8.2.deferred_light_box.vs" />
+    <None Include="8.2.deferred_shading.fs" />
+    <None Include="8.2.deferred_shading.vs" />
+    <None Include="8.2.g_buffer.fs" />
+    <None Include="8.2.g_buffer.vs" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

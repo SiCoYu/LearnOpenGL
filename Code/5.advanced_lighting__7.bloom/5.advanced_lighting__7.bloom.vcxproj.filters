@@ -14,4 +14,21 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="bloom.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\glad.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="7.bloom.vs" />
+    <None Include="7.bloom.fs" />
+    <None Include="7.bloom_final.vs" />
+    <None Include="7.bloom_final.fs" />
+    <None Include="7.blur.vs" />
+    <None Include="7.blur.fs" />
+    <None Include="7.light_box.fs" />
+  </ItemGroup>
 </Project>

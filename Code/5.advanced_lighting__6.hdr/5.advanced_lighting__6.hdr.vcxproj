@@ -64,6 +64,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\common\glad.c" />
+    <ClCompile Include="hdr.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="6.hdr.fs" />
+    <None Include="6.hdr.vs" />
+    <None Include="6.lighting.fs" />
+    <None Include="6.lighting.vs" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
