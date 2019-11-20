@@ -141,6 +141,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6.pbr__1.1.lighting", "6.pb
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6.pbr__1.2.lighting_textured", "6.pbr__1.2.lighting_textured\6.pbr__1.2.lighting_textured.vcxproj", "{E62709AA-CAA0-4BEA-BB83-919E786F1F55}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6.pbr__2.1.1.ibl_irradiance_conversion", "6.pbr__2.1.1.ibl_irradiance_conversion\6.pbr__2.1.1.ibl_irradiance_conversion.vcxproj", "{30519A83-F922-49D6-953A-7FEBE61FBB3F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -585,6 +587,12 @@ Global
 		{E62709AA-CAA0-4BEA-BB83-919E786F1F55}.Release|Win32.ActiveCfg = Release|Win32
 		{E62709AA-CAA0-4BEA-BB83-919E786F1F55}.Release|Win32.Build.0 = Release|Win32
 		{E62709AA-CAA0-4BEA-BB83-919E786F1F55}.Release|x64.ActiveCfg = Release|Win32
+		{30519A83-F922-49D6-953A-7FEBE61FBB3F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{30519A83-F922-49D6-953A-7FEBE61FBB3F}.Debug|Win32.Build.0 = Debug|Win32
+		{30519A83-F922-49D6-953A-7FEBE61FBB3F}.Debug|x64.ActiveCfg = Debug|Win32
+		{30519A83-F922-49D6-953A-7FEBE61FBB3F}.Release|Win32.ActiveCfg = Release|Win32
+		{30519A83-F922-49D6-953A-7FEBE61FBB3F}.Release|Win32.Build.0 = Release|Win32
+		{30519A83-F922-49D6-953A-7FEBE61FBB3F}.Release|x64.ActiveCfg = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
